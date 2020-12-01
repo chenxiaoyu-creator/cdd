@@ -7,5 +7,8 @@ public class test {
         System.out.println ("你好");
         System.out.println (a);
         System.out.println (123654);
+        System.out.println (123654);
+        System.out.println (123654);
+        System.out.println (123654);
     }
 }
