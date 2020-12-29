@@ -12,5 +12,8 @@ public class test {
         System.out.println (123654);
         System.out.println (56222);
         System.out.println ("你好啊");
+
+        System.out.println (562222);
+
     }
 }
