@@ -10,5 +10,6 @@ public class test {
         System.out.println (123654);
         System.out.println (123654);
         System.out.println (123654);
+        System.out.println (56222);
     }
 }
